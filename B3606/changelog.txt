@@ -1,0 +1,11 @@
+moje zmiany:
+main.c:
+wyrzucone PC3 is now 0/1 - zawala³o terminal wiadomoœciami
+uart_write_str("DONE\r\n"); - niepotrzebne, odpowiedŸ jest potwierdzeniem
+jednostki w LIMITS
+
+b³êdy wzglêdem protocol.md (17 poleceñ)
+nie istnieje: SNAME, VSHUTDOWN, CSHUTDOWN, CLIST, VLIST, DEFAULT
+VOLTAGE X.XXX zamiast VOLTAGE X.XXXX - dok³adnoœæ
+CURRENT X.XXX zamiast VOLTAGE X.XXXX - dok³adnoœæ
+po co RSTATUS?
