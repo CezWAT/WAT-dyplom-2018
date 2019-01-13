@@ -1,0 +1,9 @@
+miêdzy pinem wspólnym
+0 - zaden nie wcisniety
+1 - wcisniety up
+2 - wcisniety ok
+
+miêdzy mas¹
+3 - zaden nie wcisniety
+4 - wcisniety up
+5 - wcisniety ok
